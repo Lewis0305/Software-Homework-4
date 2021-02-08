@@ -1,5 +1,4 @@
 def name(first, last):
-
     try:
         vfirst = str(first)
         vlast = str(last)
