@@ -1,8 +1,6 @@
 import unittest
 import cube
 
-import unittest
-
 class TestStringMethods(unittest.TestCase):
 
     def test_normal(self):
